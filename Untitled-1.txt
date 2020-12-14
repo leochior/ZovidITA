@@ -1,6 +1,0 @@
-sito:
-mappa italiana con regioni colorate cliccabili(con spiegazione) e une geocolazzione
-e si apre solo una regione
-API
-
-
