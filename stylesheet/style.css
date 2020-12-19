@@ -43,40 +43,14 @@ body{
 
 
 
-
-
-
-
-
-.fixed-top{
-    position:fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    z-index: 1030;
-
-}
-
-
-
-.navbar-expand-lg{
-    flex-wrap: nowrap;
-    justify-content:flex-start
-}
-
-.navbar{
-    display: flex;
-    align-items: center;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
-
-
-}
-
 .container.container-sm{
     padding-top: 30px;
     text-align: center;
 
+}
+
+.container .pt-5{
+    background-color: red;
 }
 
 a{
@@ -180,10 +154,16 @@ p{
     color:rgb(255, 208, 0) ;
 }
 
-.page-footer{
+footer{
     background-color: rgb(150, 150, 150);;
 }
 
 .col{
     margin: 20px;
+}
+
+.col-sm-4 .pt-5{
+    background-image: url(/assets/images/zona-gialla.jpg);
+    background-color: rgb(255, 208, 0);
+    color: rgb(255, 208, 0);
 }
