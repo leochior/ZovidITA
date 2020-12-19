@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+ZovidITA è il sito di informazione sul coronavirus. HOME: è la pagina principale con la situazione attuale in Italia con le suddivisioni di regione e vari DPCM. MAPPA: ancora incompleta.la struttura della mappa vuole una suddivisioni di regione italiane cliccabili(dashboard) in modo tale che si veda la situazione di ogni regione COVID-19: Tutte le faq sul coronavirus.
+=======
 ZovidITA è il sito di informazione sul coronavirus.
 HOME: è la  pagina principale con la situazione attuale in Italia con le suddivisioni di regione e vari DPCM.
 MAPPA: ancora incompleta.la struttura della mappa vuole una suddivisioni di regione italiane cliccabili(dashboard) in modo tale che si veda la situazione di ogni regione
 COVID-19: Tutte le faq sul coronavirus.
+>>>>>>> origin/main

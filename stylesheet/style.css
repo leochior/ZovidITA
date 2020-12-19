@@ -1,0 +1,169 @@
+:root{
+    --bs-blue:#0d6efd;
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+    --bs-white: #fff;
+    --bs-gray: #6c757d;
+    --bs-gray-dark: #343a40;
+    --bs-primary: #0d6efd;
+    --bs-secondary: #6c757d;
+    --bs-success: #198754;
+    --bs-info: #0dcaf0;
+    --bs-warning: #ffc107;
+    --bs-danger: #dc3545;
+    --bs-light: #f8f9fa;
+    --bs-dark: #212529;
+    --bs-font-sans-serif: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --bs-font-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+
+}
+
+
+body{
+    margin:0;
+    font-family:var(--bs-font-sans-serif);
+    font-size:1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    -webkit-tap-highlight-color: 100%; 
+    -webkit-text-size-adjust:100%;
+    display: block;
+}
+
+
+
+.container.container-sm{
+    padding-top: 30px;
+    text-align: center;
+
+}
+
+.container .pt-5{
+    background-color: red;
+}
+
+a{
+    padding: 5px; 
+    font-size: 2em;
+}
+
+.regioni{
+    margin-top: 50px; 
+    font-family: fantasy
+}
+
+.dpcm{
+    color: rgb(78, 64, 64); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rossa{
+    color: red; 
+    font-size: 30px; 
+    font-family: fantasy
+}
+
+
+
+.zonar{
+    width: 60%;
+}
+
+h1, h2, h3{
+    margin-top: 50px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tabellar{
+    color: white; 
+    background-color: red; 
+    border: white;
+    margin: 2px;
+}
+
+.abruzzo{
+    color: red;
+}
+
+.arancione{
+    color: orange; 
+    font-family: fantasy
+}
+
+
+.zonaar{
+    width: 60%;
+}
+
+.tabellaar{
+    color: white;
+    background-color: orange;
+    border: white;
+    margin: 2px;
+}
+
+.regioniar{
+    color: orange;
+}
+
+.gialla{
+    color: rgb(255, 208, 0); 
+    font-family: fantasy
+}
+
+li{
+    color: rgb(78, 64, 64);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    text-align: left;
+}
+
+p{
+     font-style: italic;
+     color: rgb(78, 64, 64);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin-top: 20px;
+     text-align: center;
+}
+
+.zonag{
+    width: 60%; 
+    margin-bottom: 20px;
+}
+
+.tabellag{
+    color: white;
+    background-color:rgb(255, 208, 0);
+    border: white;
+    margin: 2px;
+}
+
+.regionig{
+    color:rgb(255, 208, 0) ;
+}
+
+footer{
+    background-color: rgb(150, 150, 150);;
+}
+
+.col{
+    margin: 20px;
+}
+
+.col-sm-4 .pt-5{
+    background-image: url(/assets/images/zona-gialla.jpg);
+    background-color: rgb(255, 208, 0);
+    color: rgb(255, 208, 0);
+}
